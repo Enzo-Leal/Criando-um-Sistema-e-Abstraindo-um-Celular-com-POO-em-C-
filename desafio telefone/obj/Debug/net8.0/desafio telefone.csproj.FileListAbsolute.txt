@@ -1,0 +1,14 @@
+C:\Users\enzol\OneDrive\Área de Trabalho\ESTUDOS DE C# DIO\desafio telefone\bin\Debug\net8.0\desafio telefone.exe
+C:\Users\enzol\OneDrive\Área de Trabalho\ESTUDOS DE C# DIO\desafio telefone\bin\Debug\net8.0\desafio telefone.deps.json
+C:\Users\enzol\OneDrive\Área de Trabalho\ESTUDOS DE C# DIO\desafio telefone\bin\Debug\net8.0\desafio telefone.runtimeconfig.json
+C:\Users\enzol\OneDrive\Área de Trabalho\ESTUDOS DE C# DIO\desafio telefone\bin\Debug\net8.0\desafio telefone.dll
+C:\Users\enzol\OneDrive\Área de Trabalho\ESTUDOS DE C# DIO\desafio telefone\bin\Debug\net8.0\desafio telefone.pdb
+C:\Users\enzol\OneDrive\Área de Trabalho\ESTUDOS DE C# DIO\desafio telefone\obj\Debug\net8.0\desafio telefone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzol\OneDrive\Área de Trabalho\ESTUDOS DE C# DIO\desafio telefone\obj\Debug\net8.0\desafio telefone.AssemblyInfoInputs.cache
+C:\Users\enzol\OneDrive\Área de Trabalho\ESTUDOS DE C# DIO\desafio telefone\obj\Debug\net8.0\desafio telefone.AssemblyInfo.cs
+C:\Users\enzol\OneDrive\Área de Trabalho\ESTUDOS DE C# DIO\desafio telefone\obj\Debug\net8.0\desafio telefone.csproj.CoreCompileInputs.cache
+C:\Users\enzol\OneDrive\Área de Trabalho\ESTUDOS DE C# DIO\desafio telefone\obj\Debug\net8.0\desafio telefone.dll
+C:\Users\enzol\OneDrive\Área de Trabalho\ESTUDOS DE C# DIO\desafio telefone\obj\Debug\net8.0\refint\desafio telefone.dll
+C:\Users\enzol\OneDrive\Área de Trabalho\ESTUDOS DE C# DIO\desafio telefone\obj\Debug\net8.0\desafio telefone.pdb
+C:\Users\enzol\OneDrive\Área de Trabalho\ESTUDOS DE C# DIO\desafio telefone\obj\Debug\net8.0\desafio telefone.genruntimeconfig.cache
+C:\Users\enzol\OneDrive\Área de Trabalho\ESTUDOS DE C# DIO\desafio telefone\obj\Debug\net8.0\ref\desafio telefone.dll
